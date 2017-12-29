@@ -4,6 +4,8 @@ Udacity VR Project 3
 Unity 2017.3.0f3
 GoogleVR Version 1.70.0
 
+Resubmission: Reinitialized witout LFS 2017-12-29
+
 Asset Store Items Used:
 Skybox: Purple Space Nebula:
 https://assetstore.unity.com/packages/2d/textures-materials/sky/purple-space-nebula-skybox-25117 
